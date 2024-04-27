@@ -1,0 +1,3 @@
+*.pyc
+poetry.lock
+.ruff_cache
